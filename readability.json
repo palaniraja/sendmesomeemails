@@ -1,0 +1,162 @@
+[
+    {
+        "article__excerpt": "I'm a programmer, I love programming, my hobby is programming, my work is programming, my life is programming. My only problem with programming is that it involves sitting, staring at a screen and&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://programmers.stackexchange.com/questions/205046/what-other-jobs-are-programmers-good-at",
+        "date_added": "2013-07-16T22:58:31",
+        "date_favorited": null,
+        "article__title": "What other jobs are programmers good at? [on hold]",
+        "archive": false
+    },
+    {
+        "article__excerpt": "A long time ago, JSLint was the state of the art in JavaScript linting technology. Then JSHint came along as a fork and took over due to increased flexibility. I welcomed JSHint as my linter of&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://www.nczonline.net/blog/2013/07/16/introducing-eslint/",
+        "date_added": "2013-07-16T22:58:30",
+        "date_favorited": null,
+        "article__title": "Introducing ESLint",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Editor&#x2019;s note: Mahmud Angrini is a Syrian Medical Doctor. He originally wrote to us to say &#x201C;thank you\" &#x2014; Mahmud&#x2019;s story was not only touching but so inspiring that we&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://blog.coursera.org/post/54893006665/it-is-never-too-late-to-start-again-a-syrian",
+        "date_added": "2013-07-14T14:43:18",
+        "date_favorited": null,
+        "article__title": "\"It is never too late to start again\" - A Syrian Doctor's 25 Courses",
+        "archive": false
+    },
+    {
+        "article__excerpt": "I enjoyed reading this question on Stack Overflow: What is (functional) reactive programming? I thought I'd take a stab at an explanation of what reactive programming means to me. Let me take you to&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://paulstovell.com/blog/reactive-programming",
+        "date_added": "2013-07-13T06:43:22",
+        "date_favorited": null,
+        "article__title": "What is Reactive Programming?",
+        "archive": false
+    },
+    {
+        "article__excerpt": "We spend more and more of our lives online. A large fraction of our lives are digital now. Yet there is hardly any witness to the digital trail we leave behind. Digital events are malleable and&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
+        "date_added": "2013-07-13T01:43:38",
+        "date_favorited": null,
+        "article__title": "Introducing Virtual Notary",
+        "archive": false
+    },
+    {
+        "article__excerpt": "As I&#x2019;ve stated before, your app needs to sync. This has not gone unnoticed by the startup world, who are offering more and more options for developers to build sync into their apps. Today,&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://informalprotocol.com/2013/07/thoughts-on-the-dropbox-datastore/",
+        "date_added": "2013-07-13T01:43:38",
+        "date_favorited": null,
+        "article__title": "Thoughts on the Dropbox Datastore API",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Everybody who worked with a project which included a&#xA0;StringUtil(s)&#xA0;class with only static methods, raise her hand! Thought so. Are those methods bad? Probably not so much, although I had a&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://java.dzone.com/articles/why-static-bad-and-how-avoid",
+        "date_added": "2013-07-10T01:13:30",
+        "date_favorited": null,
+        "article__title": "Spotlight Resources",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Start a new week of productive coding with a cup of coffee or a new article from our 30 Day Guide on the trickier features of IntelliJ IDEA. Today we will talk about finding usages &#x2014; a&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://blogs.jetbrains.com/idea/2013/07/30-days-with-intellij-idea-find-usages/",
+        "date_added": "2013-07-10T01:13:30",
+        "date_favorited": null,
+        "article__title": "JetBrains IntelliJ IDEA Blog",
+        "archive": false
+    },
+    {
+        "article__excerpt": "After reading Aras' Reviewing ALL the CODE&#xA0;entry, I was going to reply describing our process, but it was getting long so I decided to write it up here. Our process is a little more lo-fi but&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://solid-angle.blogspot.com/2013/07/code-reviews.html",
+        "date_added": "2013-07-10T01:13:29",
+        "date_favorited": null,
+        "article__title": "Code reviews",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Eric Pepke, Geek First off, I&#x2019;ve never met anyone who has mastered C++. I doubt that even Bjarne Stroustrup is a master of C++, and he made it. There are even serious discussions about whether&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://www.forbes.com/sites/quora/2013/07/08/what-does-it-take-to-be-an-expert-in-computer-programming/",
+        "date_added": "2013-07-10T01:13:29",
+        "date_favorited": null,
+        "article__title": "What Does It Take To Be An Expert In Computer Programming?",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Back in February 2008, this blog arguably hit its peak (/me weeps). I was still a bit of a noob web developer and I cringe when I see some of my older code, but it's back then when I wrote 9 Signs&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://davidwalsh.name/9-signs-2013",
+        "date_added": "2013-07-10T01:13:29",
+        "date_favorited": null,
+        "article__title": "9 Signs You Shouldn\u2019t Hire THAT Web Guy \u2013 2013 Edition",
+        "archive": false
+    },
+    {
+        "article__excerpt": "I like to review ALL THE THINGS that are happening in our codebase. Currently we have about 70 programmers, mostly comitting to a single Mercurial repository (into a ton of different branches),&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://aras-p.info/blog/2013/07/07/reviewing-all-the-code/#comment-955124036",
+        "date_added": "2013-07-10T01:13:27",
+        "date_favorited": null,
+        "article__title": "Reviewing ALL the CODE",
+        "archive": false
+    },
+    {
+        "article__excerpt": "I look forward to Apple Apple keynote presentations and product launches because, as a communication specialist, it&#x2019;s hard for me to find a better role model for creating, designing, and&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://www.forbes.com/sites/carminegallo/2013/06/11/ten-presentation-techniques-you-can-and-should-copy-from-apples-wwdc-keynote/",
+        "date_added": "2013-07-08T05:43:25",
+        "date_favorited": null,
+        "article__title": "Ten Presentation Techniques You Can (And Should) Copy From Apple's WWDC Keynote",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Just about the most asinine, presumptuous, hubris-filled thing a designer can say is that someone else&#x2019;s design is &#x201C;wrong&#x201D;. That word is reserved for judgments of absolute truth&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://mrgan.tumblr.com/post/53308781143/wrong",
+        "date_added": "2013-07-08T05:43:25",
+        "date_favorited": null,
+        "article__title": "Missing vowels since before it was cool.",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?Holidays like Independence Day give me the excuse (and reminder) to&hellip;",
+        "favorite": false,
+        "date_archived": null,
+        "article__url": "http://www.linkedin.com/today/post/article/20130704005710-7374576-finding-your-passion-in-work-20-awesome-quotes",
+        "date_added": "2013-07-08T05:43:25",
+        "date_favorited": null,
+        "article__title": "Finding Your Passion In Work: 20 Awesome Quotes",
+        "archive": false
+    },
+    {
+        "article__excerpt": "Readability helps zap online clutter and saves web articles in a comfortable reading view. You&#x2019;re moments away from saving anything you find on the web to your mobile device for reading on&hellip;",
+        "favorite": false,
+        "date_archived": "2012-03-03T13:39:31",
+        "article__url": "http://blog.readability.com/welcome/mobile/",
+        "date_added": "2012-01-12T13:27:20",
+        "date_favorited": null,
+        "article__title": "Congratulations! Your Readability account has been created.",
+        "archive": true
+    }
+]

@@ -1,0 +1,3 @@
+Concurrent = Two queues and one coffee machine.
+
+Parallel = Two queues and two coffee machines.

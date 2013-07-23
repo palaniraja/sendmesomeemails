@@ -1,0 +1,8 @@
+{
+	"name": "SendMeSomeEmails",
+	"version": "0.0.1",
+	"author": "palaniraja",
+	"dependencies":{
+		"nodemailer":"0.5.0"
+	}
+}
